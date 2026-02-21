@@ -15,4 +15,4 @@ Analysis of ESG risk ratings across 430 S&P 500 companies using Python.
 - Healthcare leads in Social risk, reflecting labor practices and patient rights concerns
 
 ## Status
-Complete — 4 visualizations with sector-level and correlation analysis
+Complete — 5 visualizations with sector-level and correlation analysis
